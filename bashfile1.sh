@@ -8,3 +8,5 @@ echo "Learning Git"
 #git push origin branch
 
 echo "Updating this file with git commands"
+
+echo "my local repo now remote repos"
